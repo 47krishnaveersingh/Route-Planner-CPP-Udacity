@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/krishnaveer/Documents/udacityC++/CppND-Route-Planning-Project-master/src/model.h
+vector
+-
+unordered_map
+-
+string
+-
+cstddef
+-
+
+/home/krishnaveer/Documents/udacityC++/CppND-Route-Planning-Project-master/src/route_model.h
+limits
+-
+cmath
+-
+unordered_map
+-
+model.h
+/home/krishnaveer/Documents/udacityC++/CppND-Route-Planning-Project-master/src/model.h
+iostream
+-
+
+/home/krishnaveer/Documents/udacityC++/CppND-Route-Planning-Project-master/src/route_planner.cpp
+route_planner.h
+/home/krishnaveer/Documents/udacityC++/CppND-Route-Planning-Project-master/src/route_planner.h
+algorithm
+-
+
+/home/krishnaveer/Documents/udacityC++/CppND-Route-Planning-Project-master/src/route_planner.h
+iostream
+-
+vector
+-
+string
+-
+route_model.h
+/home/krishnaveer/Documents/udacityC++/CppND-Route-Planning-Project-master/src/route_model.h
+
